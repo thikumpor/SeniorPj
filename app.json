@@ -1,0 +1,12 @@
+{
+  "name": "engapp",
+  "displayName": "engapp",
+  "expo": {
+    "name": "engapp",
+    "slug": "engapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
