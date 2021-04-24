@@ -8,6 +8,11 @@ function Home({navigation}) {
         <Text style={styles.U}>Test</Text>
         <View style={{width: 200,height: 50}}>
         <View style={{marginTop:20}}>
+        <Button title="Test"  onPress={() => navigation.navigate('Apptest')} 
+            color="#469EF9" 
+          />
+        </View>
+        <View style={{marginTop:20}}>
         <Button title="Finish"  onPress={() => navigation.navigate('Home')} 
             color="#469EF9" 
           />

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "question": "Dance",
+      "choices": ["เดิน", "กิน", "เต้น", "นอน"],
+      "answer": "เต้น"
+    },
+    {
+      "question": "That is my cat......is blck",
+      "choices": ["He", "It", "They", "Are"],
+      "answer": "It"
+    },
+    {
+      "question": "......... is the boy?",
+      "choices": ["Who", "You", "When", "Where"],
+      "answer": "Where"
+    },
+    {
+      "question": "Maroon has whaite.......",
+      "choices": ["Teeth", "eyes", "nose", "Tail"],
+      "answer": "Teeth"
+    },
+    {
+      "question": "A man has......fingers.",
+      "choices": ["10", "11", "20", "30"],
+      "answer": "10"
+    },
+    {
+      "question": ".......that an apples?",
+      "choices": ["Is", "An", "Are", "One"],
+      "answer": "Are"
+    },
+    {
+      "question": "This is ......rat. ",
+      "choices": ["an", "a", "are", "there"],
+      "answer": "a"
+    },
+    {
+      "question": "What is nanma",
+      "choices": ["Human", "Cat", "A man", "Olw"],
+      "answer": "Cat"
+    },
+    {
+      "question": "......... are childrens",
+      "choices": ["He", "She", "We", "nanma"],
+      "answer": "We"
+    }
+  ]
+}

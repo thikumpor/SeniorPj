@@ -12,8 +12,6 @@ function HomeTh({navigation}) {
             color="#469EF9" 
           />
         </View>
-       
-
         </View>
       </View>
     );

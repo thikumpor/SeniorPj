@@ -12,6 +12,8 @@ import RegisterST from './src/screen/Register';
 import RegisterPr from './src/screen/RegisterPr';
 import Test from './src/screen/Test';
 import HomeTh from './src/screen/HomeTh';
+import Apptest from './src/screen/Apptest';
+import End from './src/screen/End';
 
 
 
@@ -31,6 +33,8 @@ function App() {
         <Stack.Screen name="RegisterPr" component={RegisterPr} />
         <Stack.Screen name="Test" component={Test} />
         <Stack.Screen name="HomeTh" component={HomeTh}/>
+        <Stack.Screen name="Apptest" component={Apptest}/>
+        <Stack.Screen name="End" component={End}/>
       
       </Stack.Navigator>
     </NavigationContainer>
